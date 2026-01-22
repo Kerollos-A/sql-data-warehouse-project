@@ -5,7 +5,7 @@ This project demonstrates end-to-end **ETL processes**, **data modeling**, and *
 
 ---
 
-## 📌 Project Overview
+##  Project Overview
 
 This repository showcases how to design and implement a modern Data Warehouse using **SQL Server**. The architecture is inspired by the **Medallion Architecture**, which separates data processing into clear, well-defined layers:
 
@@ -148,7 +148,7 @@ This separation ensures performance, clarity, and business alignment.
 
 ---
 
-## 🎯 Project Goals
+##  Project Goals
 
 * Demonstrate real-world **Data Engineering concepts**
 * Apply **Medallion Architecture** using SQL Server
@@ -157,7 +157,7 @@ This separation ensures performance, clarity, and business alignment.
 
 ---
 
-## 🚀 Future Enhancements
+##  Future Enhancements
 
 * Incremental loading (CDC)
 * Automation with SQL Agent / Airflow
