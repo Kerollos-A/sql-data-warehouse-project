@@ -1,6 +1,6 @@
 # SQL Data Warehouse Project
 
-Building a **Data Warehouse (DWH) using SQL Server** following the **Medallion Architecture (Bronze, Silver, Gold layers)**.
+Building a **Data Warehouse (DWH) 'Data Engineering' using SQL Server** following the **Medallion Architecture (Bronze, Silver, Gold layers)**.
 This project demonstrates end-to-end **ETL processes**, **data modeling**, and **analytics-ready data** for reporting and machine learning use cases.
 
 ---
